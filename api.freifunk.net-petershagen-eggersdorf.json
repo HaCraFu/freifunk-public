@@ -1,0 +1,29 @@
+{
+  "name": "Freifunk Petershagen/Eggersdorf",
+  "url": "https://www.hacrafu.de/freifunk/",
+  "location": {
+    "city": "Petershagen/Eggersdorf",
+    "country": "DE",
+    "lat": 52.529359,
+    "lon": 13.790597,
+    "address": {
+      "Name": "Hacken Craften Funken e.V.",
+      "Street": "Wasserstr. 14",
+      "Zipcode": "15370"
+    }
+  },
+  "contact": {
+    "email": "freifunk@hacrafu.de",
+    "twitter": "@hacrafu"
+  },
+  "metacommunity": "Hacken Craften Funken e.V.",
+  "state": {
+    "nodes": 6,
+    "description": "Freifunk in Petershagen/Eggersdorf",
+    "focus": [
+      "Public Free Wifi",
+      "Free internet access"
+    ],
+    "lastchange": "2019-07-16T21:57:46CEST"
+  }
+}
