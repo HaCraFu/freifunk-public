@@ -1,0 +1,57 @@
+{
+  "api": "0.5.2",
+  "name": "Freifunk Petershagen/Eggersdorf",
+  "url": "https://www.hacrafu.de/freifunk/",
+  "location": {
+    "city": "Petershagen/Eggersdorf",
+    "country": "DE",
+    "geoCode": {
+      "lat": 52.52759924833187,
+      "lon": 13.78543850060393
+    },
+    "address": {
+      "name": "Jugendclub Petershagen",
+      "street": "Elbestraße 63",
+      "zipcode": "15370"
+    }
+  },
+  "contact": {
+    "email": "freifunk@hacrafu.de",
+    "matrix": "https://matrix.to/#/!gNcetHjJBMzCeFqDAE:hacrafu.de?via=hacrafu.de",
+    "twitter": "@hacrafu",
+    "webform": "https://www.hacrafu.de/kontakt/"
+  },
+  "state": {
+    "nodes": 6,
+    "lastchange": "2023-07-17T23:23:15+02:00",
+    "focus": [
+      "Public Free Wifi",
+      "Free internet access"
+    ]
+  },
+  "support": {
+    "club": {
+      "board": [
+        "Marcel Haischmann",
+        "Tom Jannek",
+        "Silvio Kunze",
+        "Björn Swierczek"
+      ],
+      "name": "Hacken Craften Funken e. V.",
+      "street": "Wasserstr. 14",
+      "zip": "15370",
+      "city": "Petershagen/Eggersdorf",
+      "url": "https://www.hacrafu.de",
+      "email": "vorstand@hacrafu.de"
+    },
+    "donations": {
+      "bankaccount": {
+        "IBAN": "IBAN DE35 1705 4040 0020 0640 39",
+        "usage": "\"Spende\" + Name + Anschrift"
+      }
+    }
+  },
+  "privacy": {
+    "policyurl": "https://www.hacrafu.de/datenschutz/"
+  }
+}
