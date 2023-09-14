@@ -53,5 +53,14 @@
   },
   "privacy": {
     "policyurl": "https://www.hacrafu.de/datenschutz/"
+  },
+  "techDetails": {
+    "firmware": {
+      "url": "https://berlin.freifunk.net/downloads/",
+      "docs": "https://wiki.freifunk.net/Berlin:Firmware",
+      "vpnaccess": "fwimage",
+      "registrationurl": "https://config.berlin.freifunk.net/",
+      "name": "falter"
+    }
   }
 }
